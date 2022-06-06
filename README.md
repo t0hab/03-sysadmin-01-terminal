@@ -29,9 +29,9 @@ A value of `ignoreboth` is shorthand (сокращение) for 'ignorespace' an
 * Что делает конструкция [[ -d /tmp ]] - проверяет наличие директории tmp
 
 ## Основываясь на знаниях о просмотре текущих (например, PATH) и установке новых переменных; командах, которые мы рассматривали, добейтесь в выводе type -a bash в виртуальной машине наличия первым пунктом в списке:
-  	`bash
+  	bash
 	bash is /tmp/new_path_directory/bash
 	bash is /usr/local/bin/bash
-	bash is /bin/bash`
+	bash is /bin/bash
  
 ![Screenshot_3](https://i.ibb.co/0tVWq12/image.png)
